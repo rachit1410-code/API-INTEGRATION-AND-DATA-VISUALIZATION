@@ -55,6 +55,9 @@ Pressure
 
 #📈Sample Output
 Once you enter a city like "Mumbai", the program will display:
+<img width="700" height="449" alt="Image" src="https://github.com/user-attachments/assets/e5c70230-c857-4182-be2f-86929292e11d" />
+
+<img width="708" height="307" alt="Image" src="https://github.com/user-attachments/assets/4b782045-0b01-4b85-92b0-6faedcbf30bf" />
 
 Weather Report for Mumbai:
 Temperature: 30°C
